@@ -1,7 +1,7 @@
 # Hello wasm
 
 * wasm on Cloudflare Workers
-* emscripten is required: <https://emscripten.org/docs/compiling/WebAssembly.html>
+* emscripten is required: <https://emscripten.org/>
 
 ## Author
 
